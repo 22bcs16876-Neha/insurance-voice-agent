@@ -1,0 +1,51 @@
+[
+  {
+    "customerId": "C001",
+    "name": "Amit Verma",
+    "phone": "9876543210",
+    "dob": "1990-05-15",
+    "policyIds": [
+      "POL-MOTOR-001",
+      "POL-HEALTH-001"
+    ]
+  },
+  {
+    "customerId": "C002",
+    "name": "Neha Shah",
+    "phone": "9123456780",
+    "dob": "1992-08-22",
+    "policyIds": [
+      "POL-LIFE-001"
+    ]
+  },
+  {
+    "customerId": "C003",
+    "name": "Raj Mehta",
+    "phone": "9988776655",
+    "dob": "1988-11-05",
+    "policyIds": [
+      "POL-MOTOR-002",
+      "POL-LIFE-002"
+    ]
+  },
+  {
+    "customerId": "C004",
+    "name": "Priya Nair",
+    "phone": "9090909090",
+    "dob": "1995-03-18",
+    "policyIds": [
+      "POL-HEALTH-002"
+    ]
+  },
+  {
+    "customerId": "C005",
+    "name": "Arjun Kapoor",
+    "phone": "9012345678",
+    "dob": "1987-07-12",
+    "policyIds": [
+      "POL-MOTOR-003",
+      "POL-HEALTH-003",
+      "POL-LIFE-003"
+    ]
+  }
+]

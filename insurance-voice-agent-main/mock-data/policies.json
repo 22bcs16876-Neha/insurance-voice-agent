@@ -1,0 +1,42 @@
+[
+  {
+    "policyId": "POL-MOTOR-001",
+    "customerId": "C001",
+    "type": "Motor Insurance",
+    "status": "Active",
+    "premium": 8500,
+    "expiryDate": "2027-01-15"
+  },
+  {
+    "policyId": "POL-HEALTH-001",
+    "customerId": "C001",
+    "type": "Health Insurance",
+    "status": "Active",
+    "premium": 15000,
+    "expiryDate": "2026-08-20"
+  },
+  {
+    "policyId": "POL-LIFE-001",
+    "customerId": "C002",
+    "type": "Life Insurance",
+    "status": "Active",
+    "premium": 12000,
+    "expiryDate": "2035-06-20"
+  },
+  {
+    "policyId": "POL-HEALTH-002",
+    "customerId": "C004",
+    "type": "Health Insurance",
+    "status": "Active",
+    "premium": 10000,
+    "expiryDate": "2026-09-30"
+  },
+  {
+    "policyId": "POL-MOTOR-003",
+    "customerId": "C005",
+    "type": "Motor Insurance",
+    "status": "Active",
+    "premium": 9000,
+    "expiryDate": "2026-08-05"
+  }
+}
