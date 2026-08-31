@@ -93,8 +93,8 @@ The architecture supports both **existing customers and new customers** through 
                │                         │
                │ Authentication          │
                │ Intent Detection        │
-               │ Context Management       │
-               │ Intent Routing           │
+               │ Context Management      │
+               │ Intent Routing          │
                └────────────┬────────────┘
                             │
           ┌─────────────────┼─────────────────┐
